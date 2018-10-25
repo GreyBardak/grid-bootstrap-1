@@ -1,0 +1,20 @@
+.row div {
+    border: 5px solid white;
+    height: 5vh;
+}
+
+.row.blue div {
+    background-color: blue;
+}
+
+.row.orange div {
+    background-color: orange;
+}
+
+.row.green div {
+    background-color: green;
+}
+
+.row.red div {
+    background-color: red;
+}
